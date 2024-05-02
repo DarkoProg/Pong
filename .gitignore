@@ -38,7 +38,4 @@ Thumbs.db
 
 
 #CMAKE
-CMake*
-cmake*
-MAKE*
 build/
