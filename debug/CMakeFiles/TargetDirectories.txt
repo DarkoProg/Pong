@@ -1,4 +1,0 @@
-/home/darko/Projects/Pong/debug/CMakeFiles/Pong.dir
-/home/darko/Projects/Pong/debug/CMakeFiles/run.dir
-/home/darko/Projects/Pong/debug/CMakeFiles/edit_cache.dir
-/home/darko/Projects/Pong/debug/CMakeFiles/rebuild_cache.dir
