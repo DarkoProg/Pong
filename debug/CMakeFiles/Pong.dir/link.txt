@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Pong.dir/Libraries/main.cpp.o -o Pong  -lglfw -lvulkan -ldl -lpthread -lX11 -lXxf86vm -lXrandr -lXi

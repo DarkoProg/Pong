@@ -39,3 +39,4 @@ Thumbs.db
 
 #CMAKE
 build/
+Debug/
