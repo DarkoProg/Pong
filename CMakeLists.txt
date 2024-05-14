@@ -25,3 +25,5 @@ add_custom_target(run
     DEPENDS Pong
     WORKING_DIRECTORY ${CMAKE_PROJECT_DIR}
     )
+
+file(MAKE_DIRECTORY build/Shaders)
